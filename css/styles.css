@@ -1,0 +1,58 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    padding: 50px;
+    font-size: 14px;
+    color: ;
+}
+
+#main-container {
+    padding: 30px 15px;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px auto;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+h2 {
+	font-weight: 700;
+	font-size: 18px;
+    text-transform: uppercase;
+    background-color: #00D27D;
+    color: #FFFFFF;
+    padding: 8px 3px;
+
+}
+
+h3{
+	font-style: italic;
+}
+
+.bold{font-weight: 700;}
+
+.cv_picture {
+    max-width: 200px;
+    height: auto;
+    border: solid 3px #00d27d;
+}
+
+.form-button{
+	background: #00d27d;
+    color: #FFFFFF;
+    padding: 8px 15px;
+    border: none;
+    font-size: 14px;
+    border-radius: 50px;
+}
+
+.form-button:hover{
+	font-weight: 700;
+	background: #FFFFFF;
+    color: #00d27d;
+    border: solid 1px #000000;
+    cursor: pointer;
+}
